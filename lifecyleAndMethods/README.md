@@ -1,4 +1,4 @@
-Ders İçeriği: React.js Class-Based ve Function Component Yaşam Döngüsü
+## Ders İçeriği: React.js Class-Based ve Function Component Yaşam Döngüsü
 Bu dersimizde React.js ile birlikte kullanılan class-based componentların yaşam döngüsüne ve bu yaşam döngüsü methodlarının function component kullanımlarına ve useRef hook'unun kullanımına odaklanacağız.
 
 React.js, web uygulamaları oluşturmak için yaygın olarak kullanılan bir JavaScript kütüphanesidir. Class-based componentlar, React.js uygulamalarında sıkça kullanılan bir bileşen türüdür ve belirli bir yaşam döngüsüne sahiptir. Bu yaşam döngüsü, bileşenin oluşturulması, güncellenmesi ve yok edilmesi aşamalarını kapsar. Bu dersimizde, bu yaşam döngüsünün her bir aşamasını ayrıntılı bir şekilde inceleyeceğiz.
